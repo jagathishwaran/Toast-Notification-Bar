@@ -1,20 +1,13 @@
 
 ## Title
 
-Quiz Site
+Toast Notification Bar/ Snack Bar
 ## Description 
 
-Presenting my JavaScript Quiz Website! Test your knowledge with a collection of engaging quizzes. Enjoy an interactive experience, responsive design, and captivating visuals. Enhance your learning while having fun. Accessible on any device for seamless quiz-taking. Expand your knowledge with this captivating quiz platform.
+"Using JavaScript, HTML, and CSS, this toast notification bar provides a sleek and user-friendly way to display important messages or alerts. With customizable features and smooth animations, this web application enhances user experience by delivering timely and eye-catching notifications to keep users informed and engaged."
 ## Authors
 
 - [jagathishwaran](https://www.github.com/jagathishwaran) 
-
-
-## Demo
-
-Live Demo:
-
-        https://jagathishwaran.github.io/Quiz-Site/
 
     
 ## Getting Started
@@ -34,12 +27,11 @@ To explore or modify the code, follow these steps:
 
 ## Features
 
-1️⃣ Dynamic question generation: Questions are generated dynamically to provide a unique experience with each quiz attempt.
+1️⃣ Customizable Notification Buttons: Choose from success (green), invalid input (orange), and error (red) buttons to trigger appropriate notifications.
 
-2️⃣ Score tracking: Keep track of user scores and display them at the end of each quiz.
+2️⃣ Dynamic Progress Bar: Keep track of notification duration with a color-coded progress bar that gradually reduces, providing a visual representation of remaining time.
 
-3️⃣ Responsive design: Ensure the website is accessible and user-friendly on various devices.
-
+3️⃣ Partially Responsive Design: Enjoy the notification bar across devices, although it may not fully adapt to all screen sizes.
 
 
 ## Contributing
